@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="maramMVVM.View.TempletPageView">
+    <ContentPage.Content>
+        <StackLayout>
+            <Editor Text="{Binding text}" Placeholder="Enter text here" PlaceholderColor="Gray"/>
+            <Button VerticalOptions="Center"
+                        Text="Post"
+                        TextColor="Gray"
+                        BackgroundColor="#F5F110"
+                        BorderWidth="1.5"
+                        CornerRadius="50"
+                        BorderColor="ForestGreen"
+                        Command="{Binding AddtextCommand}"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
