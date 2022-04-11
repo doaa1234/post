@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\bin\Debug\netstandard2.0\maramMVVM.deps.json
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\bin\Debug\netstandard2.0\maramMVVM.dll
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\bin\Debug\netstandard2.0\ref\maramMVVM.dll
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\bin\Debug\netstandard2.0\maramMVVM.pdb
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\maramMVVM.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\maramMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\maramMVVM.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\maramMVVM.AssemblyInfo.cs
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\maramMVVM.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\maramMVVM.dll
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\ref\maramMVVM.dll
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\maramMVVM.pdb
+C:\Users\HP\source\repos\maramMVVM\maramMVVM\maramMVVM\obj\Debug\netstandard2.0\View\TempletPageView.xaml.g.cs
